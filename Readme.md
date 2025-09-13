@@ -4,5 +4,5 @@
 * [x] Git Story
 * [x] Git Installation
 * [x] Git Global Configuration 
-* [x] Init Repository / Add to Staging area
-* [ ] Commit
+* [x] init, areas
+* [ ] commit, restore
