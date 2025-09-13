@@ -5,4 +5,6 @@
 * [x] Git Installation
 * [x] Git Global Configuration 
 * [x] init, areas
-* [ ] commit, restore
+* [x] commit, restore
+* [ ] branch, switch
+* [ ] remote, github
